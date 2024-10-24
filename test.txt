@@ -7,6 +7,6 @@ Hello! Branch b!
 2024-10-24 22:59
 
 add : 변경된 파일 stage에 추가
-
+commit : stage에 추가된 파일 커밋
 
 
